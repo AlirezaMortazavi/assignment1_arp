@@ -1,0 +1,6 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory '/home/mohsen/Downloads/Assignment1_ARP/assignment1_arp'
+make: Leaving directory '/home/mohsen/Downloads/Assignment1_ARP/assignment1_arp'
+ 
+makefile:9: *** missing separator.  Stop.
+
